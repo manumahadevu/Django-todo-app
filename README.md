@@ -3,9 +3,9 @@
 This is a simple to-do application built using Django3.
 
 ## What are the functions
-User can add task. 
-User can delete task.
-If the task is empty it wont be added.
+1. User can add task. 
+2. User can delete task.
+3. If the task is empty it wont be added.
 
 Note:I have used CSRF token for adding task to database 
 
